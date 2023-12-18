@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchs8003&count_bg=%2357827C&title_bg=%23666533&icon=&icon_color=%23226163&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![chs8003's GitHub stats](https://github-readme-stats.vercel.app/api?username=chs8003&show_icons=true&theme=transparent)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chs8003)](https://solved.ac/chs8003/)
+
 # 👋 Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-FF7800.svg?&style=for-the-badge&logo=Java&logoColor=white)
